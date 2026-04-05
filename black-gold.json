@@ -1,6 +1,6 @@
 {
   "name": "black gold",
-  "description": "i don't fucking know",
+  "description": "i dont fucking know",
   "authors": [
     {
       "name": "mineogo",
@@ -10,84 +10,103 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_MENTIONED": [
-      "#C9A05633"
+      "#FF8C0033"
     ],
     "MENTION_BACKGROUND": [
-      "#8B6F47"
+      "#FF8C00"
     ],
     "TEXT_MENTION": [
-      "#C9A056"
+      "#FFB627"
     ],
     "TEXT_DEFAULT": [
       "#E8E8E8"
     ],
     "INPUT_BACKGROUND": [
-      "#0A0A0A",
-      "#0A0A0A",
-      "#0A0A0A"
+      "#000000",
+      "#000000",
+      "#000000"
     ],
     "HEADER_PRIMARY": [
-      "#C9A056"
+      "#FFB627"
     ],
     "INTERACTIVE_NORMAL": [
-      "#8B6F47"
+      "#D4AF37"
     ],
     "INTERACTIVE_HOVER": [
-      "#C9A056"
+      "#FFB627"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#D4AF37"
+      "#FF8C00"
     ],
     "TEXT_LINK": [
       "#D4AF37"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0A0A0A"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#050505"
     ]
   },
+  "background": {
+    "url": "https://raw.githubusercontent.com/MINEOGO/shitty-revenge-themes/refs/heads/main/black_gold_gradient.png",
+    "alpha": 0.5,
+    "blur": 0
+  },
   "rawColors": {
-    "PLUM_11": "#0D0D0D",
-    "PLUM_13": "#121212",
-    "PLUM_15": "#0F0F0F",
-    "PLUM_16": "#0A0A0A",
-    "PLUM_17": "#080808",
-    "PLUM_18": "#0A0A0A",
-    "PLUM_19": "#0F0F0F",
-    "PLUM_20": "#0D0D0D",
-    "PLUM_22": "#0A0A0A",
-    "PLUM_23": "#121212",
-    "PLUM_24": "#101010",
-    "PRIMARY_700": "#0D0D0D",
-    "PRIMARY_230": "#0A0A0A",
-    "PRIMARY_300": "#0D0D0D",
-    "YELLOW_260": "#8B6F47",
-    "YELLOW_300": "#C9A056",
-    "ORANGE_345": "#8B6F47",
-    "BRAND_260": "#8B6F47",
-    "BRAND_360": "#C9A056",
-    "BRAND_500": "#A0826D"
+    "PLUM_11": "#000000",
+    "PLUM_13": "#0A0A0A",
+    "PLUM_15": "#050505",
+    "PLUM_16": "#000000",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#050505",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#000000",
+    "PLUM_23": "#0A0A0A",
+    "PLUM_24": "#050505",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_230": "#000000",
+    "PRIMARY_300": "#000000",
+    "PRIMARY_600": "#0A0A0A",
+    "PRIMARY_630": "#050505",
+    "PRIMARY_660": "#000000",
+    "YELLOW_260": "#FF8C00",
+    "YELLOW_300": "#FFB627",
+    "ORANGE_345": "#FF8C00",
+    "BRAND_260": "#FF8C00",
+    "BRAND_360": "#FFB627",
+    "BRAND_500": "#D4AF37",
+    "BLACK_500": "#000000",
+    "WHITE_500": "#E8E8E8"
   },
   "plus": {
     "version": "0",
     "iconpack": "rosiecord-plumpy",
     "icons": {
       "ic_new_pins": [
-        "#C9A056"
+        "#FFB627"
       ],
       "StatusStreaming": [
-        "#A0826D"
+        "#FF8C00"
       ],
       "StatusMobileOnline": [
-        "#8B6F47"
+        "#FFB627"
       ],
       "StatusIdle": [
-        "#C9A056"
+        "#FFB627"
       ],
       "StatusDND": [
-        "#CD7F32"
+        "#FF4500"
       ],
       "StatusOffline": [
-        "#4A4A4A"
+        "#555555"
       ],
       "StatusOnline": [
-        "#C9A056"
+        "#FFB627"
       ]
     }
   }
