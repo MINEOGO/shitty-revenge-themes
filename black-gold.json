@@ -10,13 +10,13 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_MENTIONED": [
-      "#FFD70033"
+      "#C9A05633"
     ],
     "MENTION_BACKGROUND": [
-      "#D4AF37"
+      "#8B6F47"
     ],
     "TEXT_MENTION": [
-      "#FFD700"
+      "#C9A056"
     ],
     "TEXT_DEFAULT": [
       "#E8E8E8"
@@ -27,16 +27,16 @@
       "#0A0A0A"
     ],
     "HEADER_PRIMARY": [
-      "#FFD700"
+      "#C9A056"
     ],
     "INTERACTIVE_NORMAL": [
-      "#B8860B"
+      "#8B6F47"
     ],
     "INTERACTIVE_HOVER": [
-      "#FFD700"
+      "#C9A056"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FFA500"
+      "#D4AF37"
     ],
     "TEXT_LINK": [
       "#D4AF37"
@@ -57,37 +57,37 @@
     "PRIMARY_700": "#0D0D0D",
     "PRIMARY_230": "#0A0A0A",
     "PRIMARY_300": "#0D0D0D",
-    "YELLOW_260": "#D4AF37",
-    "YELLOW_300": "#FFD700",
-    "ORANGE_345": "#B8860B",
-    "BRAND_260": "#D4AF37",
-    "BRAND_360": "#FFD700",
-    "BRAND_500": "#B8860B"
+    "YELLOW_260": "#8B6F47",
+    "YELLOW_300": "#C9A056",
+    "ORANGE_345": "#8B6F47",
+    "BRAND_260": "#8B6F47",
+    "BRAND_360": "#C9A056",
+    "BRAND_500": "#A0826D"
   },
   "plus": {
     "version": "0",
     "iconpack": "rosiecord-plumpy",
     "icons": {
       "ic_new_pins": [
-        "#FFD700"
+        "#C9A056"
       ],
       "StatusStreaming": [
-        "#D4AF37"
+        "#A0826D"
       ],
       "StatusMobileOnline": [
-        "#B8860B"
+        "#8B6F47"
       ],
       "StatusIdle": [
-        "#FFD700"
+        "#C9A056"
       ],
       "StatusDND": [
-        "#FF8C00"
+        "#CD7F32"
       ],
       "StatusOffline": [
         "#4A4A4A"
       ],
       "StatusOnline": [
-        "#FFD700"
+        "#C9A056"
       ]
     }
   }
