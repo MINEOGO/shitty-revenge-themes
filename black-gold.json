@@ -1,0 +1,94 @@
+{
+  "name": "black gold",
+  "description": "i don't fucking know",
+  "authors": [
+    {
+      "name": "mineogo",
+      "id": "1344883739653574716"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": [
+      "#FFD70033"
+    ],
+    "MENTION_BACKGROUND": [
+      "#D4AF37"
+    ],
+    "TEXT_MENTION": [
+      "#FFD700"
+    ],
+    "TEXT_DEFAULT": [
+      "#E8E8E8"
+    ],
+    "INPUT_BACKGROUND": [
+      "#0A0A0A",
+      "#0A0A0A",
+      "#0A0A0A"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFD700"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#B8860B"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FFD700"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFA500"
+    ],
+    "TEXT_LINK": [
+      "#D4AF37"
+    ]
+  },
+  "rawColors": {
+    "PLUM_11": "#0D0D0D",
+    "PLUM_13": "#121212",
+    "PLUM_15": "#0F0F0F",
+    "PLUM_16": "#0A0A0A",
+    "PLUM_17": "#080808",
+    "PLUM_18": "#0A0A0A",
+    "PLUM_19": "#0F0F0F",
+    "PLUM_20": "#0D0D0D",
+    "PLUM_22": "#0A0A0A",
+    "PLUM_23": "#121212",
+    "PLUM_24": "#101010",
+    "PRIMARY_700": "#0D0D0D",
+    "PRIMARY_230": "#0A0A0A",
+    "PRIMARY_300": "#0D0D0D",
+    "YELLOW_260": "#D4AF37",
+    "YELLOW_300": "#FFD700",
+    "ORANGE_345": "#B8860B",
+    "BRAND_260": "#D4AF37",
+    "BRAND_360": "#FFD700",
+    "BRAND_500": "#B8860B"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": [
+        "#FFD700"
+      ],
+      "StatusStreaming": [
+        "#D4AF37"
+      ],
+      "StatusMobileOnline": [
+        "#B8860B"
+      ],
+      "StatusIdle": [
+        "#FFD700"
+      ],
+      "StatusDND": [
+        "#FF8C00"
+      ],
+      "StatusOffline": [
+        "#4A4A4A"
+      ],
+      "StatusOnline": [
+        "#FFD700"
+      ]
+    }
+  }
+}
